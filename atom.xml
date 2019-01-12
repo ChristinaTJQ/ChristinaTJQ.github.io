@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Caren&#39;s Blog</title>
+  <title>Christina&#39;s Blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://laijiawen.com/"/>
+  <link href="https://christinatjq.github.io/"/>
   <updated>2018-11-20T03:03:38.000Z</updated>
-  <id>http://laijiawen.com/</id>
+  <id>https://christinatjq.github.io/</id>
   
   <author>
-    <name>嘉文</name>
+    <name>Christina Tan</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何实现 JavaScript 的 new 运算符</title>
-    <link href="http://laijiawen.com/posts/implement-new-indentifier-of-javascript/"/>
-    <id>http://laijiawen.com/posts/implement-new-indentifier-of-javascript/</id>
+    <link href="https://christinatjq.github.io/posts/implement-new-indentifier-of-javascript/"/>
+    <id>https://christinatjq.github.io/posts/implement-new-indentifier-of-javascript/</id>
     <published>2018-11-20T03:03:38.000Z</published>
     <updated>2018-11-20T03:03:38.000Z</updated>
     
@@ -35,16 +35,16 @@
     </summary>
     
     
-      <category term="JavaScript" scheme="http://laijiawen.com/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="https://christinatjq.github.io/tags/JavaScript/"/>
     
-      <category term="前端" scheme="http://laijiawen.com/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://christinatjq.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>当我拔牙的时候我在想什么</title>
-    <link href="http://laijiawen.com/posts/what-was-I-thinking-when-I-was-pulled-out-ouf-my-teeth/"/>
-    <id>http://laijiawen.com/posts/what-was-I-thinking-when-I-was-pulled-out-ouf-my-teeth/</id>
+    <link href="https://christinatjq.github.io/posts/what-was-I-thinking-when-I-was-pulled-out-ouf-my-teeth/"/>
+    <id>https://christinatjq.github.io/posts/what-was-I-thinking-when-I-was-pulled-out-ouf-my-teeth/</id>
     <published>2018-11-13T02:59:28.000Z</published>
     <updated>2018-11-13T02:59:28.000Z</updated>
     
@@ -63,16 +63,16 @@
     </summary>
     
     
-      <category term="思考" scheme="http://laijiawen.com/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="https://christinatjq.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-      <category term="心理学" scheme="http://laijiawen.com/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+      <category term="心理学" scheme="https://christinatjq.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>对 Gmail 创始人 Paul Buchheit 的访谈摘录</title>
-    <link href="http://laijiawen.com/posts/Extract-from-the-interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit/"/>
-    <id>http://laijiawen.com/posts/Extract-from-the-interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit/</id>
+    <link href="https://christinatjq.github.io/posts/Extract-from-the-interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit/"/>
+    <id>https://christinatjq.github.io/posts/Extract-from-the-interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit/</id>
     <published>2018-11-02T02:57:44.000Z</published>
     <updated>2018-11-02T02:57:44.000Z</updated>
     
@@ -88,14 +88,14 @@
     </summary>
     
     
-      <category term="网络内容摘录" scheme="http://laijiawen.com/tags/%E7%BD%91%E7%BB%9C%E5%86%85%E5%AE%B9%E6%91%98%E5%BD%95/"/>
+      <category term="网络内容摘录" scheme="https://christinatjq.github.io/tags/%E7%BD%91%E7%BB%9C%E5%86%85%E5%AE%B9%E6%91%98%E5%BD%95/"/>
     
   </entry>
   
   <entry>
     <title>代理模式- JavaScript 设计模式(二)</title>
-    <link href="http://laijiawen.com/posts/proxy-pattern-and-its-application/"/>
-    <id>http://laijiawen.com/posts/proxy-pattern-and-its-application/</id>
+    <link href="https://christinatjq.github.io/posts/proxy-pattern-and-its-application/"/>
+    <id>https://christinatjq.github.io/posts/proxy-pattern-and-its-application/</id>
     <published>2018-10-25T08:36:06.000Z</published>
     <updated>2018-10-26T10:25:06.000Z</updated>
     
@@ -111,19 +111,19 @@
     
     </summary>
     
-      <category term="JavaScript 设计模式" scheme="http://laijiawen.com/categories/JavaScript-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="JavaScript 设计模式" scheme="https://christinatjq.github.io/categories/JavaScript-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-      <category term="读书笔记" scheme="http://laijiawen.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="https://christinatjq.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="JavaScript设计模式" scheme="http://laijiawen.com/tags/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="JavaScript设计模式" scheme="https://christinatjq.github.io/tags/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>策略模式- JavaScript 设计模式(一)</title>
-    <link href="http://laijiawen.com/posts/strategy-pattern-and-its-application/"/>
-    <id>http://laijiawen.com/posts/strategy-pattern-and-its-application/</id>
+    <link href="https://christinatjq.github.io/posts/strategy-pattern-and-its-application/"/>
+    <id>https://christinatjq.github.io/posts/strategy-pattern-and-its-application/</id>
     <published>2018-10-25T01:56:08.000Z</published>
     <updated>2018-12-06T17:05:34.000Z</updated>
     
@@ -138,19 +138,19 @@
     
     </summary>
     
-      <category term="JavaScript 设计模式" scheme="http://laijiawen.com/categories/JavaScript-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="JavaScript 设计模式" scheme="https://christinatjq.github.io/categories/JavaScript-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-      <category term="读书笔记" scheme="http://laijiawen.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="https://christinatjq.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="JavaScript设计模式" scheme="http://laijiawen.com/tags/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="JavaScript设计模式" scheme="https://christinatjq.github.io/tags/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>Chrome 中 table 布局的的重叠边框 bug</title>
-    <link href="http://laijiawen.com/posts/a-collapsing-border-bug-in-chrome/"/>
-    <id>http://laijiawen.com/posts/a-collapsing-border-bug-in-chrome/</id>
+    <link href="https://christinatjq.github.io/posts/a-collapsing-border-bug-in-chrome/"/>
+    <id>https://christinatjq.github.io/posts/a-collapsing-border-bug-in-chrome/</id>
     <published>2018-10-22T09:53:30.000Z</published>
     <updated>2018-10-22T09:53:30.000Z</updated>
     
@@ -163,16 +163,16 @@
     </summary>
     
     
-      <category term="Bug" scheme="http://laijiawen.com/tags/Bug/"/>
+      <category term="Bug" scheme="https://christinatjq.github.io/tags/Bug/"/>
     
-      <category term="CSS" scheme="http://laijiawen.com/tags/CSS/"/>
+      <category term="CSS" scheme="https://christinatjq.github.io/tags/CSS/"/>
     
   </entry>
   
   <entry>
     <title>如何突破环境对人的制约</title>
-    <link href="http://laijiawen.com/posts/how-to-break-though-the-constraints-of-environment/"/>
-    <id>http://laijiawen.com/posts/how-to-break-though-the-constraints-of-environment/</id>
+    <link href="https://christinatjq.github.io/posts/how-to-break-though-the-constraints-of-environment/"/>
+    <id>https://christinatjq.github.io/posts/how-to-break-though-the-constraints-of-environment/</id>
     <published>2018-09-27T06:22:23.000Z</published>
     <updated>2018-12-06T17:05:34.000Z</updated>
     
@@ -187,17 +187,17 @@
     
     </summary>
     
-      <category term="Caren how" scheme="http://laijiawen.com/categories/Caren-how/"/>
+      <category term="Caren how" scheme="https://christinatjq.github.io/categories/Caren-how/"/>
     
     
-      <category term="思考" scheme="http://laijiawen.com/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="https://christinatjq.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
   </entry>
   
   <entry>
     <title>如何培养自信</title>
-    <link href="http://laijiawen.com/posts/how-to-grow-confidience/"/>
-    <id>http://laijiawen.com/posts/how-to-grow-confidience/</id>
+    <link href="https://christinatjq.github.io/posts/how-to-grow-confidience/"/>
+    <id>https://christinatjq.github.io/posts/how-to-grow-confidience/</id>
     <published>2018-09-25T12:04:30.000Z</published>
     <updated>2018-12-06T17:05:34.000Z</updated>
     
@@ -213,17 +213,17 @@
     
     </summary>
     
-      <category term="Caren how" scheme="http://laijiawen.com/categories/Caren-how/"/>
+      <category term="Caren how" scheme="https://christinatjq.github.io/categories/Caren-how/"/>
     
     
-      <category term="思考" scheme="http://laijiawen.com/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="https://christinatjq.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
   </entry>
   
   <entry>
     <title>如何避免被洗脑(上)</title>
-    <link href="http://laijiawen.com/posts/how-to-avoid-being-brainwashed-part-1/"/>
-    <id>http://laijiawen.com/posts/how-to-avoid-being-brainwashed-part-1/</id>
+    <link href="https://christinatjq.github.io/posts/how-to-avoid-being-brainwashed-part-1/"/>
+    <id>https://christinatjq.github.io/posts/how-to-avoid-being-brainwashed-part-1/</id>
     <published>2018-09-23T12:53:27.000Z</published>
     <updated>2018-12-06T17:05:34.000Z</updated>
     
@@ -238,12 +238,12 @@
     
     </summary>
     
-      <category term="Caren how" scheme="http://laijiawen.com/categories/Caren-how/"/>
+      <category term="Caren how" scheme="https://christinatjq.github.io/categories/Caren-how/"/>
     
     
-      <category term="心理学" scheme="http://laijiawen.com/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
+      <category term="心理学" scheme="https://christinatjq.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%A6/"/>
     
-      <category term="读书笔记" scheme="http://laijiawen.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="https://christinatjq.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
